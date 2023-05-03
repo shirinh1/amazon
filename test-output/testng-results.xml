@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T18:18:29 EDT" name="Default suite" finished-at="2023-05-03T18:18:37 EDT" duration-ms="8133">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T18:18:29 EDT" name="Default test" finished-at="2023-05-03T18:18:37 EDT" duration-ms="8133">
+      <class name="tests.GenericClassTest">
+        <test-method is-config="true" signature="AppOpen()[pri:0, instance:tests.GenericClassTest@6302bbb1]" started-at="2023-05-03T18:18:29 EDT" name="AppOpen" finished-at="2023-05-03T18:18:34 EDT" duration-ms="5601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppOpen -->
+        <test-method signature="handlingDropDown()[pri:0, instance:tests.GenericClassTest@6302bbb1]" started-at="2023-05-03T18:18:34 EDT" name="handlingDropDown" finished-at="2023-05-03T18:18:37 EDT" duration-ms="2471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingDropDown -->
+      </class> <!-- tests.GenericClassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
